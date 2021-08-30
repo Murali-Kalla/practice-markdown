@@ -1,5 +1,6 @@
 # practice-markdown
 Markdown properies
 
-## My name is Murali
+#### My name is Murali
 ###### My father name is Radhakrishna 
+* My mother name is jayanthi *
