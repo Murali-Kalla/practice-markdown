@@ -11,5 +11,5 @@ For **bold text** you _can_ use * or _.
 
 >>>>This is nested paragraph
 
-We can use 'black' to indicate the code.
+We can use `black` to indicate the code.
 
