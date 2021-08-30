@@ -7,5 +7,5 @@ Markdown properies
 
 **My brother name is pavan**
 
-For **bold text** you ___can___ use * or _.
+For **bold text** you _can_ use * or _.
 
