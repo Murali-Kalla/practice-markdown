@@ -31,6 +31,10 @@ jyfttfvhbkj
 mbhfgbvjb
 
 [bearcat log in](https://www.nwmissouri.edu/login/)
+
+ let's go to amazon <https://www.amazon.com/>
+ 
+ 
     
   
 
