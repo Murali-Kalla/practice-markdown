@@ -6,3 +6,6 @@ Markdown properies
 *My mother name is jayanthi*.  
 
 **My brother name is pavan**
+
+For **bold text** you can __use__ * or _.
+
