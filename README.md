@@ -34,7 +34,7 @@ mbhfgbvjb
 
  let's go to amazon <https://www.amazon.com/>
  
- ![Murali's Image](/Desktop/Murali.jpg)
+ ![Murali's Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fgorilla&psig=AOvVaw30EyHo-cv7cF4MPQzqqNMj&ust=1630545551248000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDwzNXN3PICFQAAAAAdAAAAABAD)
  
  
     
